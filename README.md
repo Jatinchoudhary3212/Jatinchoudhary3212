@@ -20,6 +20,7 @@ pkg install git -y
 pkg install curl
 
 git clone https://github.com/termuxprofessor/insfollow
+
 cd insfollow
 
 chmod +x insfollow.sh
